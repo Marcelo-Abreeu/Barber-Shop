@@ -509,9 +509,15 @@ footer p{
     .btn{
         display: none;
     }
+    .Main {
+        max-width: 90%;
+    }
   }
 
   @media screen and (max-width: 375px){
+    .Main {
+        max-width: 91%;
+    }
 
     .Text-sobre h2{
         font-size: 50px;
