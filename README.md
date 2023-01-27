@@ -2,7 +2,7 @@
   ✂️💈 Rock Star
 </h1>
 
-<img src="imgs/ScreenshotSite.jpeg">
+<img src="assets/imgs/ScreenshotSite.jpeg" width="100%">
 
 ## 📝 Descrição 
 
